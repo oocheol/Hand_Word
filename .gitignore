@@ -1,5 +1,7 @@
 # data
-.zip
+*.zip
+*.txt
+user_data/
 
 
 # Byte-compiled / optimized / DLL files
